@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c4b7842826e55e93e6e786e5fa1e8c965b743e54">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_670d0f58415710e466f4cec49c6f276459726851/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_38bdb86686a18de3a63df935e9cec7c045b5859a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_7d154f5c30cd6b3a458548e78f00822aa161a7f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_6e9877316122b99b34c0d1cbea391bb77f6522db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_f2581d982e64f743ed5d6b0327a01f3fbbecf4b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_a488e5cd40beae23afc309602cfe63a1b068b38c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_06a887bbd7faca617ea990df72eb9c2e9f7236ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_046b203b8185af07c10b5e0dddf82ceb3f4d5a32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_909ebc4650d84765ddf362352fd6169ce0203b6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_3bb5d9aa8d25334a8f293ee5bebe65ea91206aba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_10c91d1a68ea595410f02e7a47bca08103232156/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_6d3367e2a092490053fa2e5ea3745ed1f21a45af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ac827a2786d494143b935cbd24c08229ff1558d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_60241ecb2f797849b883ab9f70cc91cf61b0a6b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_f26e5327746fa102ac2eddfee358a5050fd29a49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_4b3bf0856ecd2e34df98e9481f82a3ce1f0792b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_8aa5c98ec58716ff8d2b554818dd4f539837b02a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8c8bbd40eda8665e0d0de00fdf14dde4ed5614af">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_91f827c746e90cfc4ede2ee18cf628c8c2d07367/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_02afc997b1751ffdf5c8751b8ff35d0a7560e317/classes.dex" />
+    </item>
+
+</items>

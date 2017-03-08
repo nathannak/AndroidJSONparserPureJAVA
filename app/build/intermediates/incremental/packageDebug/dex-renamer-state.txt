@@ -1,0 +1,7 @@
+#Fri Dec 23 04:54:33 PST 2016
+base.0=/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_91f827c746e90cfc4ede2ee18cf628c8c2d07367
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_670d0f58415710e466f4cec49c6f276459726851/classes.dex
+base.1=/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_670d0f58415710e466f4cec49c6f276459726851
+file.0=/Users/ali/Desktop/KamcordMiniProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_91f827c746e90cfc4ede2ee18cf628c8c2d07367/classes.dex
